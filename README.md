@@ -10,7 +10,7 @@
 </div>
 
 <details>
-  <summary>☎️ Contact me</summary>
+  <summary>☎️ Contact Me</summary>
 <div>
   <samp>
     <h2 align="center">😎 you can reach me by:</h2>
@@ -27,13 +27,13 @@
          alt="azzar" height="30"/></a>
     </p>
   <p align="center">
-      <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center"
+      <a href="https://instagram.com/beyondlon" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
       <!--<a href="https://wa.me/+6282232529804" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>--->
-      <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center"
+      <a href="https://twitter.com/thatbynln" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
       <br>
@@ -43,7 +43,7 @@
 </details>
 
 <details>
-  <summary>🧮 About</summary>
+  <summary>🧮 About Me</summary>
 <div>
 <h2 align="center">🧮 About this Account</h2>
  <p align="center">
@@ -66,7 +66,7 @@
 </details>
 
 <details>
-  <summary>🌏 Global</summary>
+  <summary>🌏 Global Img</summary>
 <div>
 <h2 align="center"> Wanna learn more something about me? </h2>
 </div>
@@ -144,5 +144,5 @@
   <summary>📈 Latest Acti-Graph</summary>
   <br/>
   <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/thatbynln/github-readme-activity-graph"><img alt="thatbynln's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=thatbynln&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/thatbynln/github-readme-activity-graph"><img alt="ThatBynln's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=thatbynln&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
