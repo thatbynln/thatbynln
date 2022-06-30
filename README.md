@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm ThatBynln</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/thatbynln/thatbynln/blob/main/resources/img/waving.gif">, I'm ThatBynln</h1>
 <h4 align="center">Still Learning New Stuff, FOSS Supporter and Linux Nerd With Different Vision.</h4>
 </div>
 
 <div align="center">
   <a href="https://thatbynln.github.io/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/thatbynln/thatbynln/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -144,5 +144,5 @@
   <summary>📈 Latest Activity Graph</summary>
   <br/>
   <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/thatbynln/github-readme-activity-graph"><img alt="thatbynln's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=thatbynln&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
