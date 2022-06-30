@@ -10,7 +10,7 @@
 </div>
 
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>☎️ Contact me</summary>
 <div>
   <samp>
     <h2 align="center">😎 you can reach me by:</h2>
@@ -43,7 +43,7 @@
 </details>
 
 <details>
-  <summary>🧮 about</summary>
+  <summary>🧮 About</summary>
 <div>
 <h2 align="center">🧮 About this Account</h2>
  <p align="center">
@@ -66,7 +66,7 @@
 </details>
 
 <details>
-  <summary>🌏 global</summary>
+  <summary>🌏 Global</summary>
 <div>
 <h2 align="center"> Wanna learn more something about me? </h2>
 </div>
@@ -122,7 +122,7 @@
 </details>
 
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary>💻 GitHub Status</summary>
   <div>
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
@@ -141,7 +141,7 @@
 </details>
 
 <details>
-  <summary>📈 Latest Activity Graph</summary>
+  <summary>📈 Latest Acti-Graph</summary>
   <br/>
   <h2 align="center"> latest contribution </h2>
 <a href="https://github.com/thatbynln/github-readme-activity-graph"><img alt="thatbynln's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=thatbynln&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
