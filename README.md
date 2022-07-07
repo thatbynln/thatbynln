@@ -45,8 +45,10 @@
 <details>
   <summary>🧮 About Me</summary>
 <div>
-<h2 align="center">🧮 About this Account</h2>
+<h2 align="center">🧮 Maybe Something Boring</h2>
  <p align="center">
+ I'm a Innovation Lover Who Is Still Learning New Stuff, FOSS Supporter And Cyber Enthusiast With A Different Vision Toward's The Future.
+ BTW I Use Arch.<br>
   <a href="github.com/thatbynln" target="blank"><img align="center" 
      src="https://badges.pufler.dev/visits/thatbynln/thatbynln?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
      alt="spying counter" /></a>
