@@ -3,12 +3,6 @@
 <h4 align="center">Still Learning New Stuff, FOSS Supporter and Linux Nerd With Different Vision.</h4>
 </div>
 
-<p align="center">
-<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/instagram.png"/></a>
-<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
-<a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/github.png"/></a>
-</p>
-
 <div align="center">
   <a href="https://thatbynln.github.io/">
   <img  src="https://github.com/thatbynln/thatbynln/blob/main/resources/img/grid-snake.svg"
