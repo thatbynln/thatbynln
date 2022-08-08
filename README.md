@@ -19,7 +19,7 @@ Check out my repos ⬇️
 <details>
   <summary>🌏 Global Img</summary>
 <div>
-<h2 align="center"> Wanna learn more something about me? </h2>
+<h2 align="center"> Find Something About Me From This IMG..</h2>
 </div>
 
 ```js
@@ -75,7 +75,7 @@ Check out my repos ⬇️
 <details> 
   <summary>💻 GitHub Status</summary>
   <div>
-    <h2 align="center"> 📊 Github stats </h2>
+    <h2 align="center"> 📊 Github Profile Status </h2>
       <br/>
         <p align="center">
           <a href="https://github.com/thatbynln/">
@@ -94,6 +94,6 @@ Check out my repos ⬇️
 <details>
   <summary>📈 Latest Acti-Graph</summary>
   <br/>
-  <h2 align="center"> latest contribution </h2>
+  <h2 align="center"> 📈 Latest Acti-Graph </h2>
 <a href="https://github.com/thatbynln/github-readme-activity-graph"><img alt="ThatBynln's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=thatbynln&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
